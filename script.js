@@ -1,7 +1,7 @@
 const adapter = new window.ChatAdapter({
   openai: {
-    apiKey: 'YOUR_API_KEY_HERE',
-    chatbotId: 'YOUR_CHATBOT_ID_HERE'
+    apiKey: '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',
+    chatbotId: 'org-Wx3U13xx4UXht60F3X7tYafm'
   }
 });
 
